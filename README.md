@@ -5,4 +5,4 @@ Ing. en sistemas <br>
 Siempre aprendiendo, siempre creando.
 
 💻TECH STACK <br><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vscode,js,eclipse,java,cpp,matlab,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vscode,js,eclipse,java,cpp,matlab,figma,maven,postman)](https://skillicons.dev)
